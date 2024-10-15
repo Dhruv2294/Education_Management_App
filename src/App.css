@@ -1,0 +1,23 @@
+
+.navbar {
+  background-color: #b9bbbd !important; 
+  transition: background-color 0.3s ease;
+}
+
+.navbar:hover {
+  background-color: #5d5d5e; 
+}
+
+.nav-link {
+  color: rgb(57, 57, 57); 
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: black;
+  font-weight: bolder; 
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
